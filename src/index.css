@@ -2,6 +2,8 @@
   --light-gray: #e0e0e0;
   --dark-gray: #aeaeae;
   --black: #3f3f3f;
+  --blue: #3d5afe;
+  --alpha-blue: rgba(41, 98, 255, 0.1);
 }
 
 html,
@@ -10,8 +12,9 @@ body {
   width: 100%;
 }
 
-body {
+* {
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

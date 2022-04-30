@@ -12,6 +12,26 @@ const buttons = [
       component: <Button state="hover" />,
     },
   ],
+  [
+    {
+      title: '<Button variant="outline" />',
+      component: <Button variant="outline" />,
+    },
+    {
+      title: "&:hover, &:focus",
+      component: <Button variant="outline" state="hover" />,
+    },
+  ],
+  [
+    {
+      title: '<Button variant="text" />',
+      component: <Button variant="text" />,
+    },
+    {
+      title: "&:hover, &:focus",
+      component: <Button variant="text" state="hover" />,
+    },
+  ],
 ];
 
 function App() {

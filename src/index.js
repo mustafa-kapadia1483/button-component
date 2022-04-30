@@ -1,4 +1,5 @@
 import "@fontsource/noto-sans-jp";
+import "@fontsource/poppins";
 
 import React from "react";
 import ReactDOM from "react-dom/client";

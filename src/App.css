@@ -1,7 +1,12 @@
 .container {
   height: 100%;
   margin-inline: auto;
-  max-width: 300px;
+  max-width: 45%;
+}
+
+h1 {
+  font-family: "Poppins";
+  margin-block: 1em;
 }
 
 .button-type-container {
@@ -10,10 +15,10 @@
   justify-content: space-between;
 }
 
-.button-type {
-  text-align: center;
+.button-type-container {
+  margin-bottom: 2em;
 }
 
-.button-type > button {
-  width: fit-content;
+.button-type > pre {
+  margin-bottom: 1em;
 }
