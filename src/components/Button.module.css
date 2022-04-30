@@ -14,6 +14,15 @@
   outline: none;
 }
 
+.btn:disabled {
+  cursor: not-allowed;
+  color: var(--disabled-color);
+}
+
+.btn.default:disabled:hover {
+  background-color: var(--light-gray);
+}
+
 .default {
   color: var(--black);
   background-color: var(--light-gray);
@@ -48,4 +57,8 @@
 .text.focus,
 .text:focus {
   background-color: var(--alpha-blue);
+}
+
+.text:disabled:hover {
+  background-color: unset;
 }

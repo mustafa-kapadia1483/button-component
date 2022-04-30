@@ -1,7 +1,7 @@
 .container {
   height: 100%;
   margin-inline: auto;
-  max-width: 45%;
+  max-width: 90%;
 }
 
 h1 {
@@ -11,8 +11,8 @@ h1 {
 
 .button-type-container {
   display: grid;
-  grid-template-columns: repeat(2, auto);
-  justify-content: space-between;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 2em;
 }
 
 .button-type-container {

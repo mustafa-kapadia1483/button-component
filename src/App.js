@@ -32,6 +32,16 @@ const buttons = [
       component: <Button variant="text" state="hover" />,
     },
   ],
+  [
+    {
+      title: "<Button disabled />",
+      component: <Button disabled />,
+    },
+    {
+      title: '<Button variant="text" disabled />',
+      component: <Button variant="text" disabled />,
+    },
+  ],
 ];
 
 function App() {
