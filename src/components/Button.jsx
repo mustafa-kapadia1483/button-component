@@ -2,17 +2,22 @@ import styles from "./Button.module.css";
 
 const Button = ({
   children,
-  variant = "default",
-  state = "",
-  disabled = false,
+  size,
+  variant,
+  state,
+  color,
+  disabled,
+  disableShadow,
 }) => {
   console.log(styles);
   console.log(variant);
   return (
     <button
-      className={`${styles.btn} ${variant ? styles[variant] : ""} ${
-        state ? styles[state] : ""
-      }`}
+      className={`${styles.btn} ${color ? styles[`color-${color}`] : ""} ${
+        variant ? styles[`variant-${variant}`] : ""
+      } ${state ? styles[state] : ""} ${
+        disableShadow ? styles["no-box-shadow"] : ""
+      } ${size ? styles[`size-${size}`] : ""}`}
       disabled={disabled}
     >
       {children ? children : "Default"}
