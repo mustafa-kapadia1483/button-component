@@ -37,7 +37,8 @@
 
 ## Overview
 
-![screenshot](https://thumbs.gfycat.com/GlitteringDimwittedGannet-max-1mb.gif)
+![button-component-screenshot](https://user-images.githubusercontent.com/60058032/166140011-19345c4c-59c4-4049-a0b3-47ead790bb86.gif)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
