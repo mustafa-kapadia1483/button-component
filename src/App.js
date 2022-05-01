@@ -50,6 +50,16 @@ const buttons = [
   ],
   [
     {
+      title: '<Button startIcon="local_grocery_store" />',
+      component: <Button startIcon="local_grocery_store" />,
+    },
+    {
+      title: '<Button endIcon="local_grocery_store" />',
+      component: <Button endIcon="local_grocery_store" />,
+    },
+  ],
+  [
+    {
       title: '<Button size="sm" />',
       component: <Button size="sm" />,
     },

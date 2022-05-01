@@ -90,7 +90,6 @@
 /* Sizes End */
 
 /* Colors Start */
-
 .color-default {
   color: var(--black);
   background-color: var(--light-gray);
@@ -135,3 +134,12 @@
   background-color: var(--button-danger-hover-color);
 }
 /* Colors End */
+
+.start {
+  margin-right: 0.5em;
+}
+
+.end {
+  margin-left: 0.5em;
+  margin-right: 0;
+}

@@ -43,8 +43,11 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 - What was your experience?
+  - Great experience taking on the challenge of creating a reusable button component
 - What have you learned/improved?
+  - Helped me learn more about react components, props, css modules in react
 - Your wisdom? :)
+  - Great challenge for beginners to improve their react skills
 
 ### Built With
 
@@ -56,6 +59,10 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+1. Reusable Button Component
+2. Variants / Button Types for button styling and sizes
+3. Support fo all html button attributes
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
@@ -86,5 +93,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://mustafa-kapadia.netlify.app/)
-- GitHub [@your-username](https://github.com/mustafa-kapadia1483)
+- Website [mustafa-kapadia.netlify.ap](https://mustafa-kapadia.netlify.app/)
+- GitHub [@mustafa-kapadia1483](https://github.com/mustafa-kapadia1483)
