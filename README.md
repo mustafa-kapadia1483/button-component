@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="http://button-component.surge.sh/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/dvK9G0aFtMOPt3QiChzv">
       Solution
     </a>
     <span> | </span>
@@ -43,6 +43,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+   - Demo is hosted on [Surge](http://button-component.surge.sh/)
 - What was your experience?
   - Great experience taking on the challenge of creating a reusable button component
 - What have you learned/improved?
@@ -63,7 +64,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 1. Reusable Button Component
 2. Variants / Button Types for button styling and sizes
-3. Support fo all html button attributes
+3. Support for all html button attributes
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
